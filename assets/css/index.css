@@ -1,0 +1,22 @@
+:root {
+    --first--color: #bbbbbb;
+    --maven-pro--font: 'Maven Pro', sans-serif;
+    --montserrat--font: 'Montserrat', sans-serif;
+    --pt-sans--font: 'PT Sans', sans-serif;
+    --quicksand--font: 'Quicksand', sans-serif;
+    --raleway--font: 'Raleway', sans-serif;
+}
+
+body {
+    background-color: var(--first-color);
+    font-family: var(--pt-sans--font);
+}
+
+#skills li {
+    list-style: none;
+}
+
+#skills img {
+    height: 60px;
+    width: 60px;
+}
